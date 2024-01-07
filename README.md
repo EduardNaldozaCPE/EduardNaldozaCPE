@@ -1,7 +1,17 @@
-**Currently learning and updating portfolio.**
 
-BS Computer Engineering student at De La Salle University – Dasmariñas
+## About
+**Currently an Extern. Still learning and updating portfolio.**
 
-Languages: Python, HTML/CSS, Javascript
+Graduated as **BS Computer Engineering w/ Specialisation in Software Engineering** at *De La Salle University – Dasmariñas*
 
-Frameworks: Django, Flask, React
+## Skills
+**Languages**:
+ - Javascript, 
+ - Python, 
+ - HTML/CSS
+ 
+**Techs**:
+- ReactJS, 
+- ExpressJS, 
+- Flask, 
+- Django
