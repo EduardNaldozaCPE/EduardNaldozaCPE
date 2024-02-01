@@ -1,17 +1,13 @@
 
 ## About
-**Currently an Extern. Still learning and updating portfolio.**
+- **Currently an Extern - `Still learning and updating portfolio.`**
+- Graduated in **BS Computer Engineering w/ Specialisation in Software Engineering** at *De La Salle University – Dasmariñas*
 
-Graduated as **BS Computer Engineering w/ Specialisation in Software Engineering** at *De La Salle University – Dasmariñas*
 
-## Skills
+## Skills (to some degree)
 **Languages**:
- - Javascript, 
- - Python, 
- - HTML/CSS
- 
-**Techs**:
-- ReactJS, 
-- ExpressJS, 
-- Flask, 
-- Django
+ - Javascript - `ReactJS`, `ExpressJS`
+ - Python - `Flask`
+ - SQL - `SQLite`, `MYSQL`
+ - PHP
+ - HTML & CSS
