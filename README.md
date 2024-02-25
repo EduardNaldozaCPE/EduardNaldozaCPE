@@ -1,6 +1,6 @@
 
 ## About
-- **Currently an Extern - `Still learning and updating portfolio.`**
+- **Currently `learning and updating portfolio.`**
 - Graduated in **BS Computer Engineering w/ Specialisation in Software Engineering** at *De La Salle University – Dasmariñas*
 
 
