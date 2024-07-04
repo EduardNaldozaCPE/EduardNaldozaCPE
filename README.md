@@ -9,5 +9,5 @@
  - Javascript - `ReactJS`, `ExpressJS`
  - Python - `Flask`
  - SQL - `SQLite`, `MYSQL`
- - PHP
+ - C++ (Learning)
  - HTML & CSS
