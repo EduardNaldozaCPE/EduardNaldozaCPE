@@ -7,7 +7,7 @@
 Currently `learning and updating portfolio.`
 
 **Languages**:
- - Javascript - `ReactJS`, `ExpressJS`
+ - Typescript & Javascript - `ReactJS`, `ExpressJS`
  - Python - `Flask`
  - SQL - `SQLite`, `MYSQL`
  - C++ (Learning)
